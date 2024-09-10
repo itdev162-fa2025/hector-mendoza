@@ -1,0 +1,16 @@
+/workspaces/hector-mendoza/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/workspaces/hector-mendoza/Persistence/bin/Debug/net8.0/Persistence.dll
+/workspaces/hector-mendoza/Persistence/bin/Debug/net8.0/Persistence.pdb
+/workspaces/hector-mendoza/Persistence/bin/Debug/net8.0/Domain.dll
+/workspaces/hector-mendoza/Persistence/bin/Debug/net8.0/Domain.pdb
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.dll
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/Persistence.pdb
+/workspaces/hector-mendoza/Persistence/obj/Debug/net8.0/ref/Persistence.dll
