@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, importProvidersFrom, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 
@@ -12,15 +11,14 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent implements OnInit {
   title = 'client';
-  weatherForecast: any;
-  weatherForecasts: Object;
+  posts: any;
 
   constructor(private http: HttpClient) {
 
   }
-  ngOnInit(): void {
-    this.http.get('http://localhost:5079/weatherforecast').subscribe({
-      next: (response) => this.weatherForecasts = response,
+  ngOnIt(): void {
+    this.http.get('http://localhost:5079/api/post').subscribe({
+      next: (response) => this.posts = response,
       error: (e) => console.error(e),
       complete: () => console.log('complete')
     })
